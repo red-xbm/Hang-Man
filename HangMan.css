@@ -261,3 +261,9 @@ body {
     color: rgb(255, 255, 255);
     font-weight: 600;
 }
+.end {
+    color: white;
+    text-align: center;
+    font: 13px;
+    padding: 100px 0 0;
+}
